@@ -1,0 +1,3 @@
+Name: Sneha Basawaraj
+Course: BE CSE
+Favorite Programming Language: Python
